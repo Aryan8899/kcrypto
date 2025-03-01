@@ -11,6 +11,7 @@ export default function App() {
   return (
     <div className="bg-[#0b0f19] min-h-screen text-white">
       <Navbar />
+     
       <Hero />
       <Metrics />
       <Features/>

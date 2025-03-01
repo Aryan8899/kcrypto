@@ -10,3 +10,22 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+
+/* Roboto Condensed */
+.roboto-condensed {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400; /* Change weight: 100 - 900 */
+  font-style: normal;
+}
+
+/* Open Sans */
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400; /* Change weight: 300 - 800 */
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
