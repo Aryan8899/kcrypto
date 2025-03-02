@@ -17,7 +17,8 @@ export default function Hero() {
               loop
               muted
               playsInline
-              className="absolute top-0 left-0 w-full h-full object-cover filter blur-sm"
+              className="absolute top-[20%]  lg:top-[40%]    left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-auto h-auto min-w-full min-h-full max-w-none scale-[0.5] filter blur-sm -ml-6 lg:-ml-0 "
+         
             >
               <source src="https://krystal.app/assets/images/home/banner.webm" type="video/webm" />
             </video>
